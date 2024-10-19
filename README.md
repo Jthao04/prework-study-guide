@@ -2,7 +2,7 @@
 
 ## Description
 
-This Study Guide was created for boot camp students who learned about the basics of HTML, CSS, Git, and JavaSript throughout the pre-course work. It can be used as a good reference for boot camp students to know what is included in each language and for when components of the languages are forgotten or confusing. This Study Guide was created to help boot camp students have visual notes about the languages, rather than trying to remember everything themselves. This Study Guide will be useful for boot camp students when backtracking their work while using these languages. 
+This Study Guide was created for boot camp students who learned about the basics of HTML, CSS, Git, and JavaSript throughout the pre-course work. It can be used as a study reference for boot camp students to know what components are included in each language. This Study Guide provides visual notes about the languages and will be useful for boot camp students when backtracking their work.
 
 ## Installation
 
